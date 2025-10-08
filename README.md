@@ -48,7 +48,7 @@ Follow these steps to clone and run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/hotel-landing-page.git
+git clone https://github.com/mohitsatyarthiii/Hotel-Laning-Page
 
 # 2️⃣ Move into the project directory
 cd hotel-landing-page

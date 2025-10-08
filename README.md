@@ -9,7 +9,8 @@ A modern, high-performance **Hotel Landing Page** built using **React**, **Tailw
 
 ## 🖼️ Preview
 
-![Hotel Landing Page Screenshot](./screenshot.png)
+![Hotel Landing Page Screenshot](<img width="1875" height="922" alt="purosurf and 6 more pages - Personal - Microsoft​ Edge 08-10-2025 19_12_15" src="https://github.com/user-attachments/assets/64402000-f3f8-4a85-9606-20c856b19451" />
+)
 
 > A fully responsive landing page featuring stunning motion effects, modern layout, and optimized performance for hotels, resorts, and hospitality brands.
 
@@ -50,14 +51,11 @@ Follow these steps to clone and run this project locally:
 # 1️⃣ Clone the repository
 git clone https://github.com/mohitsatyarthiii/Hotel-Laning-Page
 
-# 2️⃣ Move into the project directory
-cd hotel-landing-page
-
-# 3️⃣ Install dependencies
+# 2️⃣ Install dependencies
 npm install
 
-# 4️⃣ Run the development server
+# 3️⃣ Run the development server
 npm run dev
 
-# 5️⃣ Open in browser
+# 4️⃣ Open in browser
 # Visit http://localhost:5173

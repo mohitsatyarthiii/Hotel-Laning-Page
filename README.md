@@ -24,7 +24,7 @@ A modern, high-performance **Hotel Landing Page** built using **React**, **Tailw
 | 🧠 Framework | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/> **React.js** |
 | 🎨 Styling | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" width="40" height="40" alt="TailwindCSS"/> **Tailwind CSS** |
 | 🎞️ Animation | <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" width="40" height="40" alt="Framer Motion"/> **Framer Motion**, <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" width="40" height="40" alt="GSAP"/> **GSAP** |
-| ⚙️ Build Tool | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" alt="Vite"/> **Vite** |
+| ⚙️ Build Tool | <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" width="40" height="40" alt="Vite"/> **Vite** |
 | 💻 Language | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> **JavaScript (ES6+)** |
 
 </div>

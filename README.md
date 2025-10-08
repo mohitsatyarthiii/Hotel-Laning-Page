@@ -1,41 +1,63 @@
-#Purosurf - Luxury Surf & Wellness Resort
+# 🏨 Hotel Landing Page
 
-A stunning, modern website for Purosurf luxury surf and wellness resort featuring beautiful animations, responsive design, and premium user experience.
+A modern, high-performance **Hotel Landing Page** built using **React**, **Tailwind CSS**, **Framer Motion**, and **GSAP** — designed for smooth animations, premium visuals, and a luxurious user experience ✨  
 
-https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&auto=format&fit=crop&w=2070&q=80
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Click%20Here-blue)](https://LIVE_LINK)  
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-Live Demo: https://purosurf-demo.vercel.app
+---
 
-🛠 Tech Stack
-Frontend:
+## 🖼️ Preview
 
-React 18
+![Hotel Landing Page Screenshot](./screenshot.png)
 
-Next.js 14
+> A fully responsive landing page featuring stunning motion effects, modern layout, and optimized performance for hotels, resorts, and hospitality brands.
 
-Tailwind CSS
+---
 
-Framer Motion
+## ⚙️ Tech Stack
 
-GSAP
+<div align="center">
 
-🚀 Quick Start
-bash
-# Clone the repository
-git clone https://github.com/your-username/purosurf-website.git
+| Category | Technology |
+|-----------|-------------|
+| 🧠 Framework | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/> **React.js** |
+| 🎨 Styling | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS"/> **Tailwind CSS** |
+| 🎞️ Animation | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="40" height="40" alt="Framer Motion"/> **Framer Motion**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="GSAP"/> **GSAP** |
+| ⚙️ Build Tool | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" alt="Vite"/> **Vite** |
+| 💻 Language | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/> **JavaScript (ES6+)** |
 
-# Navigate to project directory
-cd purosurf-website
+</div>
 
-# Install dependencies
+---
+
+## 🚀 Features
+
+✅ Fully Responsive  
+✅ Smooth Page Transitions  
+✅ GSAP & Framer Motion Animations  
+✅ Modern UI/UX  
+✅ Fast Build with Vite  
+✅ Reusable Components  
+
+---
+
+## 🧩 Getting Started
+
+Follow these steps to clone and run this project locally:
+
+```bash
+# 1️⃣ Clone the repository
+git clone https://github.com/yourusername/hotel-landing-page.git
+
+# 2️⃣ Move into the project directory
+cd hotel-landing-page
+
+# 3️⃣ Install dependencies
 npm install
 
-# Run development server
+# 4️⃣ Run the development server
 npm run dev
 
-# Build for production
-npm run build
-
-# Start production server
-npm start
-Open http://localhost:5173 to view the website in your browser.
+# 5️⃣ Open in browser
+# Visit http://localhost:5173

@@ -1,16 +1,40 @@
-# React + Vite
+Purosurf - Luxury Surf & Wellness Resort
+A stunning, modern website for Purosurf luxury surf and wellness resort featuring beautiful animations, responsive design, and premium user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D&auto=format&fit=crop&w=2070&q=80
 
-Currently, two official plugins are available:
+Live Demo: https://purosurf-demo.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠 Tech Stack
+Frontend:
 
-## React Compiler
+React 18
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Next.js 14
 
-## Expanding the ESLint configuration
+Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Framer Motion
+
+GSAP
+
+🚀 Quick Start
+bash
+# Clone the repository
+git clone https://github.com/your-username/purosurf-website.git
+
+# Navigate to project directory
+cd purosurf-website
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Start production server
+npm start
+Open http://localhost:5173 to view the website in your browser.
